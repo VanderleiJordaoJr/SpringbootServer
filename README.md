@@ -1,2 +1,2 @@
 # SpringbootServer
-Springboot simple user crud, with MSSQL
+Springboot application with MSSQL
